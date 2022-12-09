@@ -684,7 +684,7 @@ if __name__ == "__main__":
  /------\   /      \  /      \   /------\  /          |     |     |   |  *     *
 /        \ /        \/        \ /        \/---------  |     |---------   *     *    
    """)
-    print(Fore.LIGHTCYAN_EX + "\t \t Private MailPro_Checker By herroug -")
+    print(Fore.LIGHTCYAN_EX + "\t \t Private MailPro_Checker By herroug-")
     print("")
     print("Please enter Key: ")
     while True:
