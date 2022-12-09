@@ -1,4 +1,4 @@
-# bigOneTool Developped in python by herroug aqvayli
+# bigOneTool Developped by herroug aqvayli
 Many options, checkers, mailler all in one soft
 
 what bigOneTool can do : 
