@@ -1,4 +1,4 @@
-# bigOneTool Developped by herroug aqvayli
+# bigOneTool Developped by herroug tita aqvayli
 Many options, checkers, mailler all in one soft
 
 what bigOneTool can do : 
