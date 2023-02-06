@@ -13,7 +13,6 @@ what bigOneTool can do :
 
 Requirements:
 
-pip3.9 install requests
-pip3.9 install colorama
-pip3.9 install pysocks
-
+- pip3.9 install requests
+- pip3.9 install colorama
+- pip3.9 install pysocks
