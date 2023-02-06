@@ -11,3 +11,9 @@ what bigOneTool can do :
 
 - D'autres options à découvrire dans le script ;) mailacess , proxy ...Etc
 
+Requirements:
+
+pip3.9 install requests
+pip3.9 install colorama
+pip3.9 install pysocks
+
